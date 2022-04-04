@@ -1,0 +1,6 @@
+.root{
+    -fx-background-image: url("../images/bosque.jpeg");
+    -fx-background-repeat: strech;
+    -fx-background-size: 1920 1080;
+    -fx-background-position: center;
+}
